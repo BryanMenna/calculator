@@ -1,0 +1,13 @@
+@import"diseño.css";
+*{  padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.container{
+    width: 100%;
+    height: 220vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
